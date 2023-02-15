@@ -1,5 +1,5 @@
 ### STATIC LAYER
-FROM openjdk:8-jdk-alpine as builder
+FROM openjdk:20-ea-34-jdk-slim as builder
 LABEL MAINTAINER="Glenn ten Cate <glenn.ten.cate@owasp.org>"
 RUN  apk add maven
 
