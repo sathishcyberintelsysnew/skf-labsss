@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:rolling
 MAINTAINER Glenn ten Cate <glenn.ten.cate@owasp.org>
 
 #Install dependencies
