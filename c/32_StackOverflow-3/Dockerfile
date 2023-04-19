@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:22.10
 MAINTAINER Glenn ten Cate <glenn.ten.cate@owasp.org>
 
 #Install dependencies
