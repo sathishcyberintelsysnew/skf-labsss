@@ -2,6 +2,6 @@ Flask==0.12.3
 flask-cors==3.0.9
 requests==2.20
 Flask-JWT==0.3.2
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 pyjwt>=1.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
